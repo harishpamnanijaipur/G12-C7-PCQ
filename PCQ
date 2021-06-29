@@ -1,0 +1,8 @@
+Answer 3
+import random
+
+car_list = ['Alto', 'Audi', 'Jaguar', 'Ford', 'Tesla']
+
+--------------Missed Code Here------
+    car = random.choice(car_list)
+    print(car)
